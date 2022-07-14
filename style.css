@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+
+/* ======header-css======= */
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 5% 0 0 0;
+}
+
+.header {
+    background: url(images/Rectangle\ 1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+.header p {
+    color: #fff;
+}
+
+.header h1 {
+    color: #fff;
+}
+
+.title-box {
+    color: #000;
+    display: block;
+    justify-content: center;
+    width: 600px;
+}
+
+/*.title-box h1 {
+    padding-bottom: 5%;
+    font-size: 4rem;
+    line-height: 40px;
+}*/
