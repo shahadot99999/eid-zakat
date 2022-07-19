@@ -41,3 +41,35 @@ body {
     font-size: 4rem;
     line-height: 40px;
 }*/
+
+
+.btn-box {
+    background-color: red;
+    color: #fff;
+    border: 2px solid green;
+    text-decoration: none;
+    padding: 10 10 10 10;
+    text-align: center;
+    border-radius: 7px;
+
+
+}
+
+.btn-box:hover {
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+
+.left {
+    flex-basis: 48%;
+}
+
+.right {
+    flex-basis: 48%;
+}
+
+.container1 {
+    display: flex;
+    padding-top: 100px;
+
+}
